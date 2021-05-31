@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="2c6b959d-aba4-4284-95d0-9b883e48645a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\admin\Desktop\2020年_Python_Flask基础+实战全套视频【千锋】 源码+课件+资料\fuzzy_expert_system-master\db.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
